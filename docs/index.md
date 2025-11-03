@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Welcome to Voron Delta Docs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
