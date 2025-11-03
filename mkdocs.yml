@@ -1,4 +1,4 @@
-site_name: Voron Delta Docs
+site_name: Voron Delta
 theme:
   name: material
   language: zh
@@ -21,7 +21,7 @@ theme:
   font:
       text: Roboto
       code: Roboto Mono
-      
+
 plugins:
     - search
 
