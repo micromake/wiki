@@ -32,8 +32,12 @@ plugins:
 nav:
   - 导览: index.md
   - DIY套件:
-    - 简介: 2.md
-    - 组装指南: 2.md
+    - 三角洲3D打印机:
+        - delta/1/1.md
+        - delta/2/2.md
+        - delta/3/3.md
+        - delta/4/4.md
+        - delta/5/5.md
   - 升级套件:
     - 1.md
   - 机械部件:
@@ -56,7 +60,7 @@ theme:
     alternate: material/web
 
   name: material
-  language: zh
+  language: en
 
   features:
     - content.code.copy
