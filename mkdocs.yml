@@ -32,7 +32,7 @@ plugins:
 nav:
   - 导览: index.md
   - DIY套件:
-    - 三角洲3D打印机:
+    - Venture D300:
         - delta/1/1.md
         - delta/2/2.md
         - delta/3/3.md
